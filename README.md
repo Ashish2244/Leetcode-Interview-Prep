@@ -1,2 +1,2 @@
 # Leetcode-Interview-Prep
-A collection of Topic wise Questions and Solution for same
+A Collection of Topic wise Questions and Solution for same
