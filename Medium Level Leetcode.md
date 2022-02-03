@@ -21,95 +21,97 @@ Array
 Searching
 
 ## Medium
-1- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-2- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-3- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-4- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-5- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-6 [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-7 [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
-8 [Reach a Number](https://leetcode.com/problems/reach-a-number/)
-9- [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
-10 [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-11 [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
-12 [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-13 [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
-14 [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
-15 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-16 [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-17 [4 Sum](https://leetcode.com/problems/4sum/)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+- [Reach a Number](https://leetcode.com/problems/reach-a-number/)
+- [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
+- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
-1 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-2 [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-3 [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
-4 [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-5 [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-6 [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
-7 [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-8 [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
+- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+- [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
 
 =====================================================================================================================================================================
 Sorting
 
 
 ## Medium
-1 [3Sum](https://leetcode.com/problems/3sum/)
-2 [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-3 [4Sum](https://leetcode.com/problems/4sum/)
-4 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-5 [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-6 [Sort Colors](https://leetcode.com/problems/sort-colors/)
-7 [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-8 [Sort List](https://leetcode.com/problems/sort-list/)
-9  [Largest Number](https://leetcode.com/problems/largest-number/)
-10 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-11 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-12 [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [4Sum](https://leetcode.com/problems/4sum/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+-  [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+- [Sort List](https://leetcode.com/problems/sort-list/)
+- [Largest Number](https://leetcode.com/problems/largest-number/)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ## Hard
 1 [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 
 =====================================================================================================================================================================
+
 String
 
 
 ## Medium
 
-1- [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
-2- [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
-3- [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
-4- [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
-5- [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
-6- [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
-7- [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
-8- [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
-9- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
-10- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
-11- [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
-12- [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
-13- [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
-14- [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
-15- [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
-16- [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
-17- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
-18- [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
-19- [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+- [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
+- [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
+- [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
+- [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
+- [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
+- [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+- [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
+- [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+- [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
+- [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
+- [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+- [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
+- [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+- [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
+- [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
+- [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
 ## Hard
 
-1- [Valid Number](https://leetcode.com/problems/valid-number/)
-2- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
-3- [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
-4- [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-5- [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
-6- [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
-7- [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
-8- [Special Binary String](https://leetcode.com/problems/special-binary-string/)
+- [Valid Number](https://leetcode.com/problems/valid-number/)
+- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+- [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+- [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
+- [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
+- [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+- [Special Binary String](https://leetcode.com/problems/special-binary-string/)
 
 
 =====================================================================================================================================================================
+
 Recursion
 
 ## Medium
@@ -172,6 +174,7 @@ Recursion
 
 
 =====================================================================================================================================================================
+
 Bitwise
 
 ## Medium
@@ -189,6 +192,7 @@ Bitwise
 
 
 =====================================================================================================================================================================
+
 Maths
 
 ## Medium
@@ -215,6 +219,7 @@ Maths
 
 
 =====================================================================================================================================================================
+
 Linked List
 
 ## Medium
@@ -260,7 +265,10 @@ Linked List
 
 
 =====================================================================================================================================================================
+
 Stack and Queue
+
+
 ## Medium
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
